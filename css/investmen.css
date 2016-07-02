@@ -1,0 +1,23 @@
+body{
+	font-family: Cambria;
+	font-family: 12px
+}
+
+#divMenuMaker{
+	padding: 10px;
+	background-color: #BBDEFB
+}
+
+#divURL{
+	background-color: #E3F2FD;
+	padding: 10px;
+	margin-top: 10px;
+}
+
+#lblSampleURL{
+	margin-right: 30px
+}
+
+.dynComponent{
+	margin-right: 10px
+}
